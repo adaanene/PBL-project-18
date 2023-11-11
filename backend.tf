@@ -34,6 +34,7 @@ resource "aws_dynamodb_table" "terraform_locks" {
   }
 }
   
+# first create the state file and dynamodb table then uncomment this part
 
 #   terraform {
 #   backend "s3" {
