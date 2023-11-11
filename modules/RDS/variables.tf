@@ -15,3 +15,18 @@ variable "tags" {
   type        = map(string)
   default     = {}
 }
+
+variable "name" {
+  type = string
+  description = "subnet group name"
+}
+
+variable "private_subnets" {
+  type        = list
+  description = "Private subnets fro DB subnets group"
+}
+
+variable "dbname" {
+  type = string
+  description = "the database name"
+}
