@@ -1,6 +1,6 @@
 # Terraform AWS Cloud
 
-This repository is about experimenting and practicing using Terraform, a powerful infrastructure as code (IaC) tool, to develop and automate an AWS infrastructure for a fictitious company.
+This repository is about using Terraform, a powerful infrastructure as code (IaC) tool, to develop and automate an AWS infrastructure for a fictitious company.
 
 ## AWS Cloud Solution For 2 Company Websites Using A Reverse Proxy Technology
 
