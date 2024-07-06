@@ -1,4 +1,4 @@
-# Terraform AWS Cloud
+# AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM PART 2
 
 This repository is about using Terraform, a powerful infrastructure as code (IaC) tool, to develop and automate an AWS infrastructure for a fictitious company.
 
